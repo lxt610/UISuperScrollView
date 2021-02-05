@@ -20,7 +20,7 @@
                 ],
                 "height": 426,
                 "type": "panel",
-                "width": 609
+                "width": 404
               },
               {
                 "active": 0,
@@ -30,12 +30,12 @@
                 ],
                 "height": 819.984375,
                 "type": "panel",
-                "width": 609
+                "width": 404
               }
             ],
             "height": 1249,
             "type": "dock-v",
-            "width": 609
+            "width": 404
           },
           {
             "children": [
@@ -45,9 +45,9 @@
                   "scene",
                   "node-library"
                 ],
-                "height": 658,
+                "height": 713.984375,
                 "type": "panel",
-                "width": 1336
+                "width": 1540
               },
               {
                 "active": 0,
@@ -56,14 +56,14 @@
                   "timeline",
                   "game-window"
                 ],
-                "height": 588,
+                "height": 532,
                 "type": "panel",
-                "width": 1336
+                "width": 1540
               }
             ],
             "height": 1249,
             "type": "dock-v",
-            "width": 1336
+            "width": 1540
           },
           {
             "active": 0,
@@ -73,7 +73,7 @@
             ],
             "height": 1249,
             "type": "panel",
-            "width": 609
+            "width": 610
           }
         ],
         "type": "dock-h"
@@ -93,8 +93,29 @@
     },
     "worker": {}
   },
-  "panels": {},
+  "panels": {
+    "builder": {
+      "x": 155,
+      "y": 130,
+      "width": 500,
+      "height": 722
+    },
+    "preferences": {
+      "x": 1000,
+      "y": 404,
+      "width": 1051,
+      "height": 548
+    },
+    "project-settings": {
+      "x": 0,
+      "y": 0,
+      "width": 2560,
+      "height": 1440
+    }
+  },
   "panelLabelWidth": {
-    "inspector": null
+    "inspector": null,
+    "builder": null,
+    "project-settings": null
   }
 }
